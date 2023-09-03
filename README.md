@@ -3,6 +3,16 @@
 * components: P16F689, AM2322 or BME280 or BME680 or DHT11
 * IDE: MPLAB v8.91
 
+# Projekt info
+A projekt teljes részetességével nyilvánosan elérhető. Tételesen a következők:
+- Altium projekt
+- - Schematic
+- - PCB
+- - 3D objektum
+- - Gerber állomány
+- MPLAB projekt
+- - Az összes forráskód
+
 # Miért
 Egy olyan hőmérséklet és páratartalommérő eszközt akarok fejleszteni, amely viszonylag alacsony költségvetéssel kivitelezhető és emellett
 a legminimálisabb komponensekből áll.
