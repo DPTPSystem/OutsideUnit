@@ -1,5 +1,7 @@
 # OutSide Humidity and temperature sensor unit
-* author: DPTP System 2023-09-03.
+* author: DPTP System
+* Project start: 2023-09-03.
+* Project finish: in process
 * components: P16F689, AM2322 or BME280 or BME680 or DHT11
 * IDE: MPLAB v8.91
 
