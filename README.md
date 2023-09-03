@@ -1,10 +1,10 @@
-# OutSide Unit
-* title: OutSide Humidity and temperature sensor unit
+# OutSide Humidity and temperature sensor unit
 * author: DPTP System 2023-09-03.
 * components: P16F689, AM2322 or BME280 or BME680 or DHT11
+* IDE: MPLAB v8.91
 
 # Miért
-Egy olyan hőmérséklet és páratartalom mérő eszközt akarok fejleszteni, amely vizsnylag alacsony költségvetéssel kivitelezhető és emellett
+Egy olyan hőmérséklet és páratartalommérő eszközt akarok fejleszteni, amely viszonylag alacsony költségvetéssel kivitelezhető és emellett
 a legminimálisabb komponensekből áll.
 
 # Célok
